@@ -18,6 +18,7 @@ npm run build
 #usename and password   
 
 admin    123456
+
 wsq      123456
 # Folder structure
 * build - webpack config files
