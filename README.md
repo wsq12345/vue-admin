@@ -15,7 +15,8 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-#usename and password
+#usename and password   
+
 admin    123456
 wsq      123456
 # Folder structure
